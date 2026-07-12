@@ -7,7 +7,11 @@
 </h3>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vahidGhadiri&theme=flat&no-frame=true&margin-w=10"/>
   <img src="https://komarev.com/ghpvc/?username=vahidGhadiri&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vahidGhadiri&show_icons=true&theme=transparent"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahidGhadiri&layout=compact&theme=transparent"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Engineer;React+%7C+Next.js+%7C+TypeScript;Software+Architecture"/>
 </p>
 
 <p align="center">
