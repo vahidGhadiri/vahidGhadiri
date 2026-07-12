@@ -10,7 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=vahidGhadiri&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
----
 
 ### Frontend
 
@@ -30,7 +29,6 @@
 <img src="https://skillicons.dev/icons?i=git,linux,webpack"/>
 </p>
 
----
 
 
 
