@@ -33,7 +33,6 @@
 ---
 
 
-## 📈 Contribution Activity
 
 <p align="center">
 
