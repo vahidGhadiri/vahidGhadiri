@@ -61,37 +61,6 @@ Currently exploring:
 
 ---
 
-# 📌 Featured Projects
-
-## 🏠 PriceNest
-
-> A scalable monorepo application built with modern engineering practices.
-
-Stack:
-
-- Next.js
-- TypeScript
-- Turborepo
-- Docker
-- CI/CD
-- Clean Architecture
-
-
----
-
-## 🎨 Synapse Design System
-
-> A type-safe and scalable component library.
-
-Focus:
-
-- ESM/CJS packaging
-- Tree shaking optimization
-- Developer experience
-- Component architecture
-
-
----
 
 # 📊 GitHub Statistics
 
@@ -180,12 +149,3 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahidGhadiri
 
 ---
 
-# 📫 Connect
-
-<p align="center">
-
-<a href="https://github.com/vahidGhadiri">
-GitHub
-</a>
-
-</p>
