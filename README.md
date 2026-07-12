@@ -19,12 +19,4 @@
   <img src="https://streak-stats.demolab.com?user=vahidGhadiri&theme=transparent"/>
 </p>
 
----
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=vahidGhadiri&theme=transparent"/>
-
-</p>
-
----
+-
