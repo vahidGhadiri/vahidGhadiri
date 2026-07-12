@@ -34,34 +34,6 @@
 
 ---
 
-## 📚 Engineering Interests
-
-Topics I enjoy learning and experimenting with:
-
-- Clean Architecture
-- Domain-Driven Design
-- Software Architecture Patterns
-- Frontend Infrastructure
-- Monorepo Architecture
-- CI/CD Pipelines
-- Performance Engineering
-- Distributed Systems
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180"
-src="https://github-readme-stats-eight-theta.vercel.app/api?username=vahidGhadiri&show_icons=true&theme=transparent"/>
-
-<img height="180"
-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vahidGhadiri&layout=compact&theme=transparent"/>
-
-</p>
-
----
 
 ## 📈 Contribution Activity
 
