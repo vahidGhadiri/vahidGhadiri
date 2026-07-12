@@ -7,37 +7,8 @@
 </h3>
 
 <p align="center">
-  Building scalable frontend platforms with strong architecture, clean code and modern engineering practices.
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=vahidGhadiri&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
-
----
-
-## 👨‍💻 About Me
-
-I'm a Frontend Engineer passionate about designing and building scalable software systems.
-
-My main focus is creating maintainable applications through:
-
-- 🏗 Frontend Architecture
-- 🧩 Design Systems
-- 🧱 Clean Architecture & Domain-Driven Design
-- ⚡ TypeScript Ecosystem
-- 🚀 Developer Experience & Tooling
-- 🔥 Performance Optimization
-- 🔄 CI/CD & Automation
-
-Currently expanding my knowledge in:
-
-- 🟦 C# & .NET Backend Development
-- 🗄 SQL & Database Design
-- 🌐 Distributed Systems
-- 🏛 System Design
-
-I enjoy exploring how frontend applications can be designed with the same engineering principles used in large-scale backend systems.
 
 ---
 
