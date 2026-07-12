@@ -1,3 +1,4 @@
+
 <h1 align="center">
   Hi 👋, I'm Vahid Ghadiri
 </h1>
@@ -10,27 +11,15 @@
   <img src="https://komarev.com/ghpvc/?username=vahidGhadiri&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,vite"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,vite,dotnet,nodejs,postgres,docker,kubernetes,githubactions,git,linux,webpack"/>
 </p>
 
-### Backend & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,postgres,docker,kubernetes,githubactions"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vahidGhadiri&theme=transparent"/>
 </p>
 
-### Engineering Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,linux,webpack"/>
-</p>
-
-
-
+---
 
 <p align="center">
 
@@ -38,3 +27,4 @@
 
 </p>
 
+---
