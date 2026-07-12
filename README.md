@@ -63,41 +63,6 @@ I enjoy exploring how frontend applications can be designed with the same engine
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏠 PriceNest
-
-A modern full-stack application built with a focus on scalable architecture.
-
-**Stack:**
-
-- Next.js
-- TypeScript
-- .NET
-- Docker
-- GitHub Actions
-- Clean Architecture principles
-
----
-
-### 🎨 Synapse Design System
-
-A scalable TypeScript-based design system focused on:
-
-- Component architecture
-- Package optimization
-- Tree-shaking support
-- Developer experience
-
-**Stack:**
-
-- TypeScript
-- Storybook
-- Rollup / Bundlers
-- Modern ESM packages
-
----
-
 ## 📚 Engineering Interests
 
 Topics I enjoy learning and experimenting with:
@@ -136,13 +101,3 @@ src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=
 </p>
 
 ---
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/vahidGhadiri">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
