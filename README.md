@@ -32,7 +32,7 @@ My engineering interests:
 
 Currently exploring:
 
-- Node.js Backend Development
+- C#, .NET Backend Development
 - SQL & Database Design
 - System Design
 
