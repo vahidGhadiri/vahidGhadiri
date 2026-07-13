@@ -1,7 +1,3 @@
-<h1 align="center">
-  Hi 👋, I'm Vahid Ghadiri
-</h1>
-
 <h3 align="center">
   Frontend Engineer | TypeScript | React | Next.js | Software Architecture
 </h3>
