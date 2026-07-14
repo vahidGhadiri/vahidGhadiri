@@ -1,5 +1,5 @@
 <h3 align="center">
-  Frontend Engineer | TypeScript | React | Next.js | Software Architecture
+  Full-Stack Engineer
 </h3>
 
 <p align="center">
