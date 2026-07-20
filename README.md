@@ -34,18 +34,36 @@
   <img src="https://skillicons.dev/icons?i=webpack" title="Webpack"/>
 </p>
 
-# @whydrf/eslint-plugin-nava
-
-An opinionated ESLint plugin for TypeScript projects that enforces clean-code conventions, import organization, type-safety patterns, and a consistent module structure.
-
-[![npm version](https://img.shields.io/npm/v/@whydrf/eslint-plugin-nava.svg)](https://www.npmjs.com/package/@whydrf/eslint-plugin-nava)
-[![npm downloads](https://img.shields.io/npm/dm/@whydrf/eslint-plugin-nava.svg)](https://www.npmjs.com/package/@whydrf/eslint-plugin-nava)
-[![license](https://img.shields.io/npm/l/@whydrf/eslint-plugin-nava.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/vahidGhadiri/Nava-lint)](https://github.com/vahidGhadiri/Nava-lint)
-
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com/?user=vahidGhadiri&theme=transparent&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
+
+# @whydrf/eslint-plugin-nava
+
+An opinionated ESLint plugin for TypeScript projects that enforces clean-code conventions, import organization, type-safety patterns, and a consistent module structure.
+
+---
+
+<div align="center">
+
+📦 **npm**  
+<a href="https://www.npmjs.com/package/@whydrf/eslint-plugin-nava">
+  @whydrf/eslint-plugin-nava
+</a>
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+⬡ **Version**
+`0.1.0`
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+⚖️ **License**
+MIT
+
+</div>
+
+---
