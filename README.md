@@ -43,7 +43,7 @@
 
 ### @whydrf/eslint-plugin-nava
 ###### An opinionated ESLint plugin for TypeScript projects that enforces clean-code conventions, import organization, type-safety patterns, and a consistent module structure.
-&nbsp;&nbsp;•&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 [![npm version](https://img.shields.io/npm/v/@whydrf/eslint-plugin-nava.svg)](https://www.npmjs.com/package/@whydrf/eslint-plugin-nava)
 [![npm downloads](https://img.shields.io/npm/dm/@whydrf/eslint-plugin-nava.svg)](https://www.npmjs.com/package/@whydrf/eslint-plugin-nava)
 [![license](https://img.shields.io/npm/l/@whydrf/eslint-plugin-nava.svg)](LICENSE)
