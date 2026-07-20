@@ -35,5 +35,5 @@
 </p>
 
 <p align="center">
-  https://streak-stats.demolab.com/?user=vahidGhadiri
+  <img src="https://streak-stats.demolab.com/?user=vahidGhadiri&theme=transparent"/>
 </p>
