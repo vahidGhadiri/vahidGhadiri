@@ -75,5 +75,5 @@
 
 <h5 style="margin-bottom: 0, margin-top:0;"> Technical Articles:</h5>
 
-- [A Deep Dive into Git Internals: Blobs, Trees, and Commits](https://dev.to/__whyd_rf/a-deep-dive-into-git-internals-blobs-trees-and-commits-1doc)
-- [JavaScript's Asynchronous Execution: V8 and the Event Loop](https://dev.to/__whyd_rf/javascripts-asynchronous-execution-v8-and-the-event-loop-4if5)
+###### [A Deep Dive into Git Internals: Blobs, Trees, and Commits](https://dev.to/__whyd_rf/a-deep-dive-into-git-internals-blobs-trees-and-commits-1doc)
+###### [JavaScript's Asynchronous Execution: V8 and the Event Loop](https://dev.to/__whyd_rf/javascripts-asynchronous-execution-v8-and-the-event-loop-4if5)
