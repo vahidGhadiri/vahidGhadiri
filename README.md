@@ -41,12 +41,17 @@
   />
 </p>
 
-<hr style="border-top: 1px dashed #888;" />
+<div align="center">
+  <sub>
+    - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  </sub>
+</div>
 
-<h3 style="margin-bottom: 0;"> Published Packages:</h3>
+<h5 style="margin-bottom: 0, margin-top:0;"> Published Packages:</h5>
 
-#### [@whydrf/eslint-plugin-nava](https://www.npmjs.com/package/@whydrf/eslint-plugin-nava)
+##### [@whydrf/eslint-plugin-nava](https://www.npmjs.com/package/@whydrf/eslint-plugin-nava)
 ###### An opinionated ESLint plugin for TypeScript projects that enforces clean-code conventions, import organization, type-safety patterns
+
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![npm version](https://img.shields.io/npm/v/@whydrf/eslint-plugin-nava.svg)](https://www.npmjs.com/package/@whydrf/eslint-plugin-nava)
 [![npm downloads](https://img.shields.io/npm/dm/@whydrf/eslint-plugin-nava.svg)](https://www.npmjs.com/package/@whydrf/eslint-plugin-nava)
@@ -54,7 +59,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/vahidGhadiri/Nava-lint)](https://github.com/vahidGhadiri/Nava-lint)
 
 
-#### [@whydrf/nava-icon-react](https://www.npmjs.com/package/@whydrf/nava-icon-react)
+##### [@whydrf/nava-icon-react](https://www.npmjs.com/package/@whydrf/nava-icon-react)
 ###### A modern, framework-agnostic SVG icon library with official packages for React, Vue, Angular, and Web Components.
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![npm version](https://img.shields.io/npm/v/@whydrf/nava-icon-react.svg)](https://www.npmjs.com/package/@whydrf/nava-icon-react)
@@ -62,9 +67,13 @@
 [![license](https://img.shields.io/npm/l/@whydrf/nava-icon-react.svg)](https://github.com/vahidGhadiri/Nava-icon/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/vahidGhadiri/Nava-icon)](https://github.com/vahidGhadiri/Nava-icon)
 
-<hr style="border-top: 1px dashed #888;" />
+<div align="center">
+  <sub>
+    - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  </sub>
+</div>
 
-<h3 style="margin-bottom: 0;"> Technical Articles:</h3>
+<h5 style="margin-bottom: 0, margin-top:0;"> Technical Articles:</h5>
 
 - [A Deep Dive into Git Internals: Blobs, Trees, and Commits](https://dev.to/__whyd_rf/a-deep-dive-into-git-internals-blobs-trees-and-commits-1doc)
 - [JavaScript's Asynchronous Execution: V8 and the Event Loop](https://dev.to/__whyd_rf/javascripts-asynchronous-execution-v8-and-the-event-loop-4if5)
