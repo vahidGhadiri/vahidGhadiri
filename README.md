@@ -61,7 +61,9 @@
 
 ##### [@whydrf/nava-icon-react](https://www.npmjs.com/package/@whydrf/nava-icon-react)
 ###### A modern, framework-agnostic SVG icon library with official packages for React, Vue, Angular, and Web Components.
+
 &nbsp;&nbsp;&nbsp;&nbsp;
+[![Documentation](https://img.shields.io/badge/docs-live-blue)](https://vahidghadiri.github.io/Nava-icon/)
 [![npm version](https://img.shields.io/npm/v/@whydrf/nava-icon-react.svg)](https://www.npmjs.com/package/@whydrf/nava-icon-react)
 [![npm downloads](https://img.shields.io/npm/dm/@whydrf/nava-icon-react.svg)](https://www.npmjs.com/package/@whydrf/nava-icon-react)
 [![license](https://img.shields.io/npm/l/@whydrf/nava-icon-react.svg)](https://github.com/vahidGhadiri/Nava-icon/blob/main/LICENSE)
