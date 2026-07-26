@@ -77,6 +77,7 @@
 
 <h5 style="margin-bottom: 0, margin-top:0;"> Technical Articles:</h5>
 
+###### [Designing a Scalable Release System for Multi-Package TypeScript Monorepos](https://dev.to/__whyd_rf/building-a-production-ready-release-pipeline-for-multi-package-typescript-monorepos-1ohm)
 ###### [Tree-Shaking: A Deep Dive](https://dev.to/__whyd_rf/tree-shaking-a-deep-dive-337m)
 ###### [A Deep Dive into Git Internals: Blobs, Trees, and Commits](https://dev.to/__whyd_rf/a-deep-dive-into-git-internals-blobs-trees-and-commits-1doc)
 ###### [JavaScript's Asynchronous Execution: V8 and the Event Loop](https://dev.to/__whyd_rf/javascripts-asynchronous-execution-v8-and-the-event-loop-4if5)
