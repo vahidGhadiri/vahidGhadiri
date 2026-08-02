@@ -35,10 +35,7 @@
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=vahidGhadiri&theme=transparent&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img  src="https://streak-stats.demolab.com/?user=vahidGhadiri&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <div align="center">
